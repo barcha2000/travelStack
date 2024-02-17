@@ -17,3 +17,8 @@ Before running the project, it's essential to set up a virtual environment to ma
 ### Notebook
 
 The source code for this project is contained within the notebooks directory, provided in two formats for convenience and accessibility. The primary format is the Python Notebook format (.ipynb), which allows for interactive execution, visualization, and in-depth commentary alongside the code. For those who wish to view the content without running the code interactively, a static version in HTML format is also available, offering a straightforward way to inspect the code's functionality, output, and accompanying explanations without the need for a Jupyter environment.
+
+### Results
+
+
+In the results directory, you will find the outcomes of the classifiers' performance evaluations. The results are presented through three key statistics: accuracy, AUC (Area Under the ROC Curve), and informedness. These metrics provide a comprehensive overview of the classifiers' effectiveness, with accuracy measuring the overall correctness of predictions, AUC reflecting the model's ability to discriminate between classes, and informedness indicating the model's capability to make informed predictions beyond random guessing.
